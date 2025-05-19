@@ -1,3 +1,5 @@
+# https://colab.research.google.com/drive/114Aj2JBukyFkaULJZRNAg4OxZZVnT2LM
+
 # 🎮 Phân Tích Dữ Liệu Thăm Dò (EDA) - Doanh Số Bán Trò Chơi Điện Tử
 
 ## 📋 Giới Thiệu
